@@ -4,7 +4,7 @@ To run the code, open your MATLAB and run " Main_2D_3D_tsdf_overall.m "
 
 The function "Main_2D_3D_tsdf_overall.m" will first takes some time to load the prior SDF data.
 
-If the foler " "
+If the foler "#SDF_prior_calculation#"
 
 
 The second way is download the code and dataset 
