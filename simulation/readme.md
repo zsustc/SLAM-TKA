@@ -21,5 +21,5 @@ To run the code, please refer to the following steps:
 
 
 ## The second way to run the code
-Down the 
-[X_ray_frames_and_pins_localization_simulation](https://drive.google.com/drive/folders/1MfKUdQvDxh42dJFqc75vg1yeor1AFvCH?usp=sharing)
+Download all the files from
+[X_ray_frames_and_pins_localization_simulation](https://drive.google.com/drive/folders/1MfKUdQvDxh42dJFqc75vg1yeor1AFvCH?usp=sharing) into your local computer, then Open MATLAB and run The function ** Main_2D_3D_tsdf_overall.m **
