@@ -11,4 +11,4 @@ The **[simulation](simulation/)** folder consists of the code and dataset for si
 
 ## in-vivo
 
-The **[in-vivo]()** folder consists of the code and dataset for validating SLAM-TKA.
+The **[in-vivo](in-vivo/)** folder consists of the code and dataset for validating SLAM-TKA.
