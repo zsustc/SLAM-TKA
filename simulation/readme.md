@@ -1,5 +1,7 @@
 # This "simulation" folder consists of the code and dataset for simulating SLAM-TKA.
 
+--- 
+
 To run the code, please refer to the following steps:
 
 (1) go to the [SDF_prior_calculation](https://drive.google.com/drive/folders/1BLcZbM97nJQBNxSFOZ_RaUZHATfTdymR?usp=sharing) to download the pre-computed SDF. 
