@@ -6,9 +6,9 @@ This repository contains the code and both the in-vivo and simulation dataset to
 
 ## simulation
 
-This **simulatio** folder consists of the code and dataset for simulating SLAM-TKA.
+The **simulatio** folder consists of the code and dataset for simulating SLAM-TKA.
 
 
 ## in-vivo
 
-This **in-vivo** folder consists of the code and dataset for validating SLAM-TKA.
+The **in-vivo** folder consists of the code and dataset for validating SLAM-TKA.
